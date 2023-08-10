@@ -1,7 +1,6 @@
 
 # Kula Kula App
-- Kula kula app is a simple food delivery application that dispplays restaurants around your area and you can order food. It is built in React Native Expo uses tailwind css and sanity.io as the backend 
-
+- Kula Kula is a user-friendly food delivery application designed to provide a seamless dining experience. With its intuitive interface built using React Native Expo, Kula Kula brings the finest local restaurants right to your fingertips. Whether you're craving a hearty meal or a quick snack, our app allows you to effortlessly explore a variety of restaurants in your vicinity and place food orders with just a few taps.
 
 
 ## Features
@@ -10,12 +9,6 @@
 - Effortless Ordering: Enjoy a hassle-free ordering process that lets you browse menus, select your favorite dishes, and place orders with utmost simplicity.
 - Sleek Design with Tailwind CSS: Our app boasts a sleek and modern design aesthetic, crafted using Tailwind CSS, enhancing both functionality and visual appeal.
 - Seamless Backend with Sanity.io: Kula Kula utilizes the power of Sanity.io as its backend, ensuring a smooth and reliable connection between your device and the restaurants you love.
-
-
-## Authors
-
-- [Cliff Gor](https://github.com/cliffgor)
-
 
 ## Installation Steps
 
@@ -88,3 +81,7 @@ Scan the QR code using the Expo Go app on your Android or iOS device, or run the
 
 Enjoy using Kula Kula App and bon appétit! 🍔🍕🥗
     
+
+## Authors
+
+- [Cliff Gor](https://github.com/cliffgor)
